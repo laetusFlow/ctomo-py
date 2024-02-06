@@ -1,2 +1,2 @@
 # Computertomographie
-# Jupyter Notebook in Numerik
+Jupyter Notebook in Numerik
